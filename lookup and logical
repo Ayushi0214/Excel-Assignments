@@ -1,0 +1,20 @@
+Task 1: Lookup Functions
+
+1. Use VLOOKUP to find the Job Title of the employee with EEID E00085.
+2. Utilize INDEX-MATCH to find the Annual Salary of the employee named "Dylan Chin."
+
+Task 2: Logical Functions
+
+1. Calculate the Bonus amount for each employee. 
+2. Use IF statements to categorize employees into three age groups:
+    If Age is less than 30, categorize as "Young"
+    If Age is between 30 and 50 (inclusive), categorize as "Adult"
+    If Age is greater than 50, categorize as "Senior"
+3. Use an IF statement to determine the employment status of each employee based on the "Exit Date" column:
+    If the "Exit Date" is blank, label the status as "Active."
+    If the "Exit Date" is not blank, label the status as "Exited."
+
+Task 3: Data Analysis
+
+1. Calculate the average age of employees.
+2. Determine the total number of employees who have exited the company.
