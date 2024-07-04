@@ -1,0 +1,19 @@
+Dataset Link - https://github.com/Ayushi0214/Datasets/blob/main/ESD.xlsx
+
+Calculate the total annual salary of all employees.
+Determine the total bonus amount paid to all employees.
+Find the total annual salary of employees in the IT department.
+Calculate the total annual salary for employees working in the Research & Development business unit within the IT department.
+Determine the number of female employees.
+Find the number of employees in the IT department.
+Count the number of employees who are female and work in the IT department.
+Determine the average annual salary for female employees.
+Find the average annual salary of employees in the Finance department.
+Calculate the average annual salary for female employees in the IT department.
+Count the number of employees who have an annual salary greater than $100,000.
+Identify the highest bonus percentage given to any employee.
+Determine the number of employees located in Chicago.
+Identify employees who are either in the IT department or have an annual salary greater than $100,000.
+Create a column that labels employees as "Senior" if their age is greater than 50, and "Junior" otherwise.
+Find the number of employees who are not located in the United States.
+Determine the number of employees who have an annual salary less than $90,000 and are not in the IT department.
